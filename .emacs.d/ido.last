@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mingze/acm/" . "2016_fall/")
+ ("/home/mingze/" . "acm/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mingze/"
+ "/home/mingze/acm/2016_fall/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bashrc"
+ "ferry_loading.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mingze/" (22499 10637 444258 644000) ".dmrc" "app/" ".ICEauthority" "417math/" "acm/" ".mozilla/" ".bashrc" "Documents/" ".Xauthority" "AndroidStudioProjects/" "Distributed/" "Desktop/" ".cache/" ".gnupg/" ".local/" "231math/" ".xsession-errors" ".emacs.d/" "427cs/" ".gconf/" ".profile" "anth101/" ".config/" "./" ".emacs" "../" "425cs/" ".sudo_as_admin_successful" ".bash_logout" "c++/" "Books/")
+
+ ("/home/mingze/acm/2016_fall/" (22491 11876 0 0) ".backups/" "ugly_number.cpp" "word_index.cpp" "ferry_loading.cpp" "./" "../" "a.out")
+
+ ("/home/mingze/acm/" (22481 5476 0 0) ".swp" ".backups/" "before winter 2014/" "winter_2014/" "./" ".teset.in.swp" "../" "2016_fall/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
